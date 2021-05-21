@@ -1,0 +1,20 @@
+---
+layout: page
+published: true
+---
+<h2>General</h2>
+<p>A list of general posts that don't fall into the other categories.</p>
+{% for post in site.categories.general %}
+<div class="post-box">
+  <div class="post-title">
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  </div>
+  <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <p class="post-excerpt">{{ post.excerpt }}</p>
+  {% if post.tags.size > 0 %}
+    <strong>Tag{% if post.tags.size > 1 %}s{% endif %}:</strong>
+    {{ post.tags | sort | join: ", " }}
+  {% endif %}
+  <hr>
+</div>
+{% endfor %}

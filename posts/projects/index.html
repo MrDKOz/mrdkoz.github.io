@@ -1,0 +1,20 @@
+---
+layout: page
+published: true
+---
+<h2>Projects</h2>
+<p>A list of posts related to my various projects.</p>
+{% for post in site.categories.projects %}
+<div class="post-box">
+  <div class="post-title">
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  </div>
+  <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <p class="post-excerpt">{{ post.excerpt }}</p>
+  {% if post.tags.size > 0 %}
+    <strong>Tag{% if post.tags.size > 1 %}s{% endif %}:</strong>
+    {{ post.tags | sort | join: ", " }}
+  {% endif %}
+  <hr>
+</div>
+{% endfor %}
