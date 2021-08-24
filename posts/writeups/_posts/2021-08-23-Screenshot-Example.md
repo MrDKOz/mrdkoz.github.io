@@ -10,5 +10,7 @@ The console app will present you with a list of windows you can select, and once
 
 Improvements and fixes are welcome, I hope this helps.
 
+[![Example-Screenshot-Repo](https://img.shields.io/badge/GitHub-Repository-76189C?style=for-the-badge&logo=github)](https://github.com/MrDKOz/example-screenshot)
+
 ### A Glorious Screenshot
 ![Screenshot of console app](https://i.vgy.me/pOsxK5.png)
