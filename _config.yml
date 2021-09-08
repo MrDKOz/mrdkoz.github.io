@@ -18,7 +18,7 @@ footer-links:
   twitter: mrdkoz
 
 # Project Repository URL (http://username.github.io/repository-name)
-baseurl: "http://mrdkoz.github.io/mrdkoz.github.io"
+baseurl: ""
 
 permalink: /:categories/:year/:month/:title
 
