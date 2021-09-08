@@ -1,8 +1,7 @@
 # Name of site
 name: Daniel Osborne
-
-# Tagline
-description: Software Developer & Rambler
+description: Software Engineer & Rambler
+url: https://dkoz.me
 
 # URL of avatar
 avatar: https://avatars.githubusercontent.com/u/11066541?v=4
@@ -18,11 +17,8 @@ footer-links:
   linkedin: dkosborne
   twitter: mrdkoz
 
-# Used for Sitemap.xml
-url: https://dkoz.me
-
 # Project Repository URL (http://username.github.io/repository-name)
-baseurl: ""
+baseurl: "http://mrdkoz.github.io/mrdkoz.github.io"
 
 permalink: /:categories/:year/:month/:title
 
