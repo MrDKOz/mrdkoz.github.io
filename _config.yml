@@ -30,7 +30,7 @@ twitter_username: MrDKOz
 # show_aboutme_card:
 # > setting this to true, will display the About Me section
 # > setting this to false, will omit the About Me section
-show_aboutme_card: true
+show_aboutme_card: false
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
@@ -40,7 +40,7 @@ about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, s
 # show_skills_card:
 # > setting this to true, will display the Skills section
 # > setting this to false, will omit the Skills section
-show_skills_card: true
+show_skills_card: false
 # about_me_title: The will be displayed as the title in the Skills section
 skills_title: Skills
 
@@ -48,7 +48,7 @@ skills_title: Skills
 # show_timeline_card:
 # > setting this to true, will display the Timeline section
 # > setting this to false, will omit the Timeline section
-show_timeline_card: true
+show_timeline_card: false
 # timeline_title: The will be displayed as the title in the Timeline section
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
@@ -69,7 +69,7 @@ projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
