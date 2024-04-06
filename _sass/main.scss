@@ -128,12 +128,11 @@ a {
 }
 
 .neumorphism-card {
-  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 1),
-    inset -2px -2px 4px rgba(99, 99, 99, 1);
+  box-shadow: inset 1px 1px 1px #000,inset -1px -1px 0px #8d1cc2
 }
 
 .neumorphism-card-big {
-  box-shadow: 5px 5px 4px #161718, -5px -5px 4px #404346;
+  box-shadow: inset 1px 1px 1px #000,inset -1px -1px 0px #8d1cc2
 }
 
 /* Preloader */
