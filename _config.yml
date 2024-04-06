@@ -16,14 +16,14 @@ username: Daniel Osborne
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Senior Software Engineer & Creator
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: hello@dkoz.me
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: MrDKOz
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: exampleUser
+codepen_username:
+dev_username:
+linkedin_username: dkosborne
 twitter_username: MrDKOz
 
 # ABOUT ME SECTION
