@@ -13,21 +13,9 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: NexOS
+  descr: "Embark on a narrative-driven mystery game where you team up with strangers to locate a missing friend, sparked by the purchase of a mysterious laptop at a car boot sale. Uncover secrets and confront powerful entities in a quest for truth."
+  demo: https://mrdkoz.itch.io/nexos
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
-
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
-  tags:
-    - tag: Python
-    - tag: Django
-
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+    - tag: Godot
+    - tag: C#
